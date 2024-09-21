@@ -1,0 +1,15 @@
+{
+  "name": "CSE341-NODE",
+  "version": "1.0.0",
+  "description": "Contact Project",
+  "main": "server.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ernesto Quispe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongodb": "^6.9.0"
+  }
+}
